@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Know_Your_location/static/css/main.6b2a524a.css",
+    "main.js": "/Know_Your_location/static/js/main.0f38aecc.js",
+    "index.html": "/Know_Your_location/index.html",
+    "main.6b2a524a.css.map": "/Know_Your_location/static/css/main.6b2a524a.css.map",
+    "main.0f38aecc.js.map": "/Know_Your_location/static/js/main.0f38aecc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2a524a.css",
+    "static/js/main.0f38aecc.js"
+  ]
+}
